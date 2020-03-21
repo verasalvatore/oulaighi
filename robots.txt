@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auvaefiebe.institut-rehabilitation.de/sitemap.xml
